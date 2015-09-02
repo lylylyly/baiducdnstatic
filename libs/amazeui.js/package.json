@@ -1,0 +1,14 @@
+{
+  "name": "amazeui.js",
+  "filename": "amazeui.min.js",
+  "version": "2.4.0",
+  "description": "Amaze UI v2.4.0 | by Amaze UI Team | (c) 2015 AllMobilize, Inc. | Licensed under MIT | 2015-06-01T09:54:08+0800",
+  "homepage": "http://amazeui.org/",
+  "keywords": ["amazeui", "html5", "ÃÃ×Óui"],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://github.com/lylylyly/yiku.git"
+	}
+  ]
+}
